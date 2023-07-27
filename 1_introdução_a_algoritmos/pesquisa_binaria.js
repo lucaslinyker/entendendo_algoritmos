@@ -20,7 +20,6 @@ function pesquisa_binaria(lista, item) {
     return null
 }
 
-
 var etapa
 const minha_lista = [1, 3, 5, 7, 9]
 console.log(Math.log2(5))
